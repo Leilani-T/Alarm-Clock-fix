@@ -46,7 +46,6 @@ If you **do** intend on making changes, fork the project then copy the code from
 git clone https://github.com/YOUR-USERNAME/Alarm-Clock.git
 ```
 
-
 Navigate to the project directory and install the project dependencies:
 
 ```
